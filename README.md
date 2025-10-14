@@ -2,7 +2,7 @@
 
 ## Term 1 Projects
 
-### Calculator (2025)
+### Calculator (October, 14, 2025)
 
 This is a custom-built graphical calculator created using Processing. It supports both basic math and scientific functions, with a clickable button interface and a display that updates in real time. The design and layout mimic a standard handheld calculator.
 
