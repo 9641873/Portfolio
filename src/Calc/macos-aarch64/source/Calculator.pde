@@ -110,7 +110,7 @@ void mousePressed() {
       left = false;
       op = 'x';
     } else if (buttons[i].over && buttons[i].val == '÷') {
-      dVal = "0.0";
+      dVal = "0";
       left = false;
       op = '÷';
     } else if (buttons[i].over && buttons[i].val == 'C') {
