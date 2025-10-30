@@ -10,4 +10,4 @@ This is a custom-built graphical calculator created using Processing. It support
 ![UML](https://github.com/9641873/Portfolio/blob/main/images/Untitled%20Diagram.drawio.png)
 * [Windows](https://github.com/9641873/Portfolio/blob/main/src/Calc/windows-amd64.zip)
 * [MacOS](https://github.com/9641873/Portfolio/blob/main/src/Calc/macos-aarch64.zip)
-* [SourceCode](https://github.com/9641873/Portfolio/tree/main/src)
+* [SourceCode](https://github.com/9641873/Portfolio/tree/main/src/Calc)
