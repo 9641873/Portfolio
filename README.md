@@ -6,6 +6,16 @@
 
 ## Term 1 Projects
 
+### Fire slime game (December, 9, 2025)
+
+This group project is a 2D platformer game built in Processing featuring a controllable slime character, animated physics, and obstacle avoidance. The game includes multiple screens (start, menu, settings, play, and game over), level platforms, button-based UI navigation, and randomly spawning projectiles that trigger collisions. My contributions focused on gameplay mechanics such as projectile behavior, collision detection, and interactive elements, while the team collaborated on level design, character movement, and overall functionality.
+
+![Running Game](https://github.com/9641873/Portfolio/blob/main/images/game.png)
+
+[Game Source Code](https://github.com/FrozenTea11/5-fire-pool/tree/main/src/FireIceSlime)
+
+[Link to group repo](https://github.com/FrozenTea11/5-fire-pool)
+
 ### Calculator (October, 14, 2025)
 
 This project is a fully functional calculator built in Processing that supports both mouse clicks and keyboard input. It features a clean, visually balanced interface with a dark background, blue number buttons, and orange operation buttons for clear contrast and usability. Users can perform standard and advanced operations such as addition, subtraction, multiplication, division, square, square root, and pi using either on-screen buttons or keypresses. The program uses event-driven logic to track operands, operators, and results while dynamically updating the display for a smooth and responsive user experience.
@@ -44,10 +54,4 @@ This interactive Processing project presents a visual timeline of historic compu
 [Timeline Source Code](https://github.com/9641873/Portfolio/blob/main/src/History_Timeline.pde)
 
 
-### Fire slime game (December, 9, 2025)
 
-This group project is a 2D platformer game built in Processing featuring a controllable slime character, animated physics, and obstacle avoidance. The game includes multiple screens (start, menu, settings, play, and game over), level platforms, button-based UI navigation, and randomly spawning projectiles that trigger collisions. My contributions focused on gameplay mechanics such as projectile behavior, collision detection, and interactive elements, while the team collaborated on level design, character movement, and overall functionality.
-
-[Game Source Code](https://github.com/FrozenTea11/5-fire-pool/tree/main/src/FireIceSlime)
-
-[Link to group repo](https://github.com/FrozenTea11/5-fire-pool)
