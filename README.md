@@ -42,3 +42,8 @@ This interactive Processing project presents a visual timeline of historic compu
 ![History Timeline](https://github.com/9641873/Portfolio/blob/main/images/timeline.png)
 
 [Timeline Source Code](https://github.com/9641873/Portfolio/blob/main/src/History_Timeline.pde)
+
+
+### Fire slime game (December, 9, 2025)
+
+[Game Source Code](https://github.com/FrozenTea11/5-fire-pool/tree/main/src/FireIceSlime)
