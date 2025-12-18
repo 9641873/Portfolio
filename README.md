@@ -15,7 +15,7 @@ This group project is a 2D platformer game created in Processing with multiple s
 [Game Source Code](https://github.com/FrozenTea11/5-fire-pool/tree/main/src/FireIceSlime)
 
 [Link to group repo](https://github.com/FrozenTea11/5-fire-pool)
------------------------------------------------------------------------------------------------------------------
+
 
 ## Term 1 Projects
 
@@ -28,7 +28,7 @@ This project is a fully functional calculator built in Processing that supports 
 * [Windows](https://github.com/9641873/Portfolio/blob/main/src/Calc/windows-amd64.zip)
 * [MacOS](https://github.com/9641873/Portfolio/blob/main/src/Calc/macos-aarch64.zip)
 * [SourceCode](https://github.com/9641873/Portfolio/tree/main/src/Calc)
------------------------------------------------------------------------------------------------------------------
+
 
 ### Making Cars (September, 18th, 2025)
 
@@ -37,7 +37,7 @@ This Processing sketch demonstrates object-oriented programming by creating and 
 ![Running cars](https://github.com/9641873/Portfolio/blob/main/images/cars.png)
 
 [Car source code](https://github.com/9641873/Portfolio/blob/main/src/Cars)
------------------------------------------------------------------------------------------------------------------
+
 
 ### Graphics Grade (September, 16, 2025)
 
@@ -47,7 +47,7 @@ This Processing sketch visualizes a grading scale by mapping mouse position to a
 ![Grade chart](https://github.com/9641873/Portfolio/blob/main/images/grades.png)
 
 [Grades Source Code](https://github.com/9641873/Portfolio/blob/main/src/Graphics_Grade_Assingment.pde)
------------------------------------------------------------------------------------------------------------------
+
 
 
 ### History Timeline (September, 6, 2025)
@@ -57,6 +57,6 @@ This interactive Processing project presents a visual timeline of historic compu
 ![History Timeline](https://github.com/9641873/Portfolio/blob/main/images/timeline.png)
 
 [Timeline Source Code](https://github.com/9641873/Portfolio/blob/main/src/History_Timeline.pde)
------------------------------------------------------------------------------------------------------------------
+
 
 
