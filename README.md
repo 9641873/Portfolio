@@ -49,3 +49,5 @@ This interactive Processing project presents a visual timeline of historic compu
 This group project is a 2D platformer game built in Processing featuring a controllable slime character, animated physics, and obstacle avoidance. The game includes multiple screens (start, menu, settings, play, and game over), level platforms, button-based UI navigation, and randomly spawning projectiles that trigger collisions. My contributions focused on gameplay mechanics such as projectile behavior, collision detection, and interactive elements, while the team collaborated on level design, character movement, and overall functionality.
 
 [Game Source Code](https://github.com/FrozenTea11/5-fire-pool/tree/main/src/FireIceSlime)
+
+[Link to group repo](https://github.com/FrozenTea11/5-fire-pool)
