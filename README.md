@@ -2,6 +2,8 @@
 
 ## Programming Portfolio | William Watabe | 9641873@graniteschools.org
 
+## Certifications | YouScience Computer Programming 1
+
 ## Term 1 Projects
 
 ### Calculator (October, 14, 2025)
