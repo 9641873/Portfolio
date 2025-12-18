@@ -22,3 +22,7 @@ This Processing sketch demonstrates object-oriented programming by creating and 
 
 ![Car source code](https://github.com/9641873/Portfolio/blob/main/src/Cars)
 ![Running cars](https://github.com/9641873/Portfolio/blob/main/images/cars.png)
+
+### Graphics Grade (September, 16, 2025)
+
+This Processing sketch visualizes a grading scale by mapping mouse position to a GPA value. As the user moves the mouse horizontally, the program calculates and displays the corresponding letter grade in real time using conditional logic. The project demonstrates interactive graphics, user input handling, and decision-making with if–else statements.
