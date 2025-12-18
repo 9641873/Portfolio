@@ -4,7 +4,7 @@
 
 ## Certifications | YouScience Computer Programming 1
 
-## Term 1 Projects
+## Term 2 Projects
 
 ### Fire slime game (December, 9, 2025)
 
@@ -17,6 +17,7 @@ This group project is a 2D platformer game created in Processing with multiple s
 [Link to group repo](https://github.com/FrozenTea11/5-fire-pool)
 -----------------------------------------------------------------------------------------------------------------
 
+## Term 1 Projects
 
 ### Calculator (October, 14, 2025)
 
