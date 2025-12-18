@@ -35,3 +35,5 @@ This Processing sketch visualizes a grading scale by mapping mouse position to a
 ### History Timeline (September, 6, 2025)
 
 This interactive Processing project presents a visual timeline of historic computer systems from 1936 to the 1960s. Users can hover over timeline events to reveal detailed descriptions, combining graphics, text, and mouse interaction. The project highlights early computing milestones while demonstrating custom functions, conditionals, and interactive data visualization.
+
+[Timeline Source Code](https://github.com/9641873/Portfolio/blob/main/src/History_Timeline.pde)
