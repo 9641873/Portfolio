@@ -56,6 +56,6 @@ This interactive Processing project presents a visual timeline of historic compu
 ![History Timeline](https://github.com/9641873/Portfolio/blob/main/images/timeline.png)
 
 [Timeline Source Code](https://github.com/9641873/Portfolio/blob/main/src/History_Timeline.pde)
-
+-----------------------------------------------------------------------------------------------------------------
 
 
