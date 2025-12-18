@@ -8,7 +8,7 @@
 
 ### Fire slime game (December, 9, 2025)
 
-This group project is a 2D platformer game built in Processing featuring a controllable slime character, animated physics, and obstacle avoidance. The game includes multiple screens (start, menu, settings, play, and game over), level platforms, button-based UI navigation, and randomly spawning projectiles that trigger collisions. My contributions focused on gameplay mechanics such as projectile behavior, collision detection, and interactive elements, while the team collaborated on level design, character movement, and overall functionality.
+This group project is a 2D platformer game created in Processing with multiple screens, platform-based movement, and dynamic obstacles. My contributions focused on designing and implementing the projectile system, including random spawning from screen edges, movement behavior, and on-screen management. I also assisted with integrating projectiles into the main game loop and contributed ideas for settings functionality. This project demonstrates collaborative development, object-oriented programming, and interactive game design.
 
 ![Running Game](https://github.com/9641873/Portfolio/blob/main/images/game.png)
 
