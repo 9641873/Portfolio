@@ -1,5 +1,7 @@
 # William Watabe's Programming Portfolio | 2026
 
+## Programming Portfolio | William Watabe | 9641873@graniteschools.org
+
 ## Term 1 Projects
 
 ### Calculator (October, 14, 2025)
