@@ -19,3 +19,5 @@ This project is a fully functional calculator built in Processing that supports 
 ### Making Cars (September, 23rd, 2025)
 
 This Processing sketch demonstrates object-oriented programming by creating and animating multiple cars on the screen. Each Car object has its own position, color, speed, and direction, and is responsible for drawing and moving itself. An array of cars, along with two individually controlled cars, move continuously across the canvas, wrapping around the screen to create a simple traffic-style animation.
+
+![Car source code](https://github.com/9641873/Portfolio/blob/main/src/Cars)
