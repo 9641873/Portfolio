@@ -20,17 +20,18 @@ This project is a fully functional calculator built in Processing that supports 
 
 This Processing sketch demonstrates object-oriented programming by creating and animating multiple cars on the screen. Each Car object has its own position, color, speed, and direction, and is responsible for drawing and moving itself. An array of cars, along with two individually controlled cars, move continuously across the canvas, wrapping around the screen to create a simple traffic-style animation.
 
-[Car source code](https://github.com/9641873/Portfolio/blob/main/src/Cars)
-
 ![Running cars](https://github.com/9641873/Portfolio/blob/main/images/cars.png)
+
+[Car source code](https://github.com/9641873/Portfolio/blob/main/src/Cars)
 
 ### Graphics Grade (September, 16, 2025)
 
 This Processing sketch visualizes a grading scale by mapping mouse position to a GPA value. As the user moves the mouse horizontally, the program calculates and displays the corresponding letter grade in real time using conditional logic. The project demonstrates interactive graphics, user input handling, and decision-making with if–else statements.
 
-[Grades Source Code](https://github.com/9641873/Portfolio/blob/main/src/Graphics_Grade_Assingment.pde)
 
 ![Grade chart](https://github.com/9641873/Portfolio/blob/main/images/grades.png)
+
+[Grades Source Code](https://github.com/9641873/Portfolio/blob/main/src/Graphics_Grade_Assingment.pde)
 
 
 
@@ -38,6 +39,6 @@ This Processing sketch visualizes a grading scale by mapping mouse position to a
 
 This interactive Processing project presents a visual timeline of historic computer systems from 1936 to the 1960s. Users can hover over timeline events to reveal detailed descriptions, combining graphics, text, and mouse interaction. The project highlights early computing milestones while demonstrating custom functions, conditionals, and interactive data visualization.
 
-[Timeline Source Code](https://github.com/9641873/Portfolio/blob/main/src/History_Timeline.pde)
-
 ![History Timeline](https://github.com/9641873/Portfolio/blob/main/images/timeline.png)
+
+[Timeline Source Code](https://github.com/9641873/Portfolio/blob/main/src/History_Timeline.pde)
