@@ -28,3 +28,4 @@ This Processing sketch demonstrates object-oriented programming by creating and 
 This Processing sketch visualizes a grading scale by mapping mouse position to a GPA value. As the user moves the mouse horizontally, the program calculates and displays the corresponding letter grade in real time using conditional logic. The project demonstrates interactive graphics, user input handling, and decision-making with if–else statements.
 
 [Grades Source Code](https://github.com/9641873/Portfolio/blob/main/src/Graphics_Grade_Assingment.pde)
+![Grade chart](https://github.com/9641873/Portfolio/blob/main/images/grades.png)
